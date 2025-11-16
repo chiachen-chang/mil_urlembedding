@@ -2,6 +2,18 @@
 
 **Paper:Bag-of-Characters: A Multiple Instance Learning Framework for URL Embedding in Web Security**
 
+If our work helps your research, please cite:
+```bibtex
+@article{zhang2024bag,
+  title={Bag-of-Characters: A Multiple Instance Learning Framework for URL Embedding in Web Security},
+  author={Zhang, Jiachen and Yang, He and Lu, Yueming and Han, Daoqi and Jin, Gang},
+  booktitle={International Conference on Security and Privacy in Communication Systems},
+  pages={366--383},
+  year={2024},
+  organization={Springer}
+}
+```
+
 ## Project Overview
 This project implements a novel approach for embedding URLs using a Multi-Instance Learning (MIL) approach. The goal is to enhance the detection of malicious web activities by transforming URLs into a structured, vectorized format that captures both semantic and structural nuances.
 
